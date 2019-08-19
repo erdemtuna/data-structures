@@ -1,0 +1,3 @@
+/home/erdemtunayandex/data-structures/Stack/test/build/CMakeFiles/rebuild_cache.dir
+/home/erdemtunayandex/data-structures/Stack/test/build/CMakeFiles/runTest.dir
+/home/erdemtunayandex/data-structures/Stack/test/build/CMakeFiles/edit_cache.dir
